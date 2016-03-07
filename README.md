@@ -1,6 +1,11 @@
 
 Vagrant & VirtualBox
- 
+
+https://www.vagrantup.com/
+https://www.virtualbox.org/
+
+
+Vagrant
  
 Vagrant permet d'accélerer la mise en place d'environnements de dev.
 
