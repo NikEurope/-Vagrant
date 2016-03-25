@@ -1,4 +1,5 @@
 
+
 Vagrant & VirtualBox
 
 https://www.vagrantup.com/
@@ -13,3 +14,29 @@ Il permet de configurer et d'utiliser des machines virtuelles en quelques lignes
 
  https://github.com/Simplon-lyon/dev-web/wiki/devops
  
+
+
+Installation
+
+    Installer VirtualBox
+
+sudo apt-get update
+sudo apt-get install virtualbox virtualbox-qt virtualbox-dkms
+
+    Télécharger Vagrant
+
+
+Boxes:
+
+    https://box.scotch.io
+
+    Vagrant push
+    
+    
+
+
+
+
+
+
+
