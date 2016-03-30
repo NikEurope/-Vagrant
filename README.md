@@ -2,6 +2,7 @@
 
 Vagrant & VirtualBox
 
+
 https://www.vagrantup.com/
 https://www.virtualbox.org/
 
@@ -37,6 +38,8 @@ Boxes:
 
 
 Box Puphpet   https://puphpet.com
+
+TUTO : https://www.youtube.com/watch?v=Yb20B0kPrro
 
     configurer sa vm
     télécharger
