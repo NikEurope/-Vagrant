@@ -8,6 +8,7 @@ https://www.virtualbox.org/
 
 
 Vagrant
+
  
 Vagrant permet d'accélerer la mise en place d'environnements de dev.
 
@@ -39,7 +40,9 @@ Boxes:
 
 Box Puphpet   https://puphpet.com
 
+
 TUTO : https://www.youtube.com/watch?v=Yb20B0kPrro
+
 
     configurer sa vm
     télécharger
