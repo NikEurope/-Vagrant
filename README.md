@@ -9,7 +9,6 @@ https://www.virtualbox.org/
 
 Vagrant
 
- 
 Vagrant permet d'accélerer la mise en place d'environnements de dev.
 
 Il permet de configurer et d'utiliser des machines virtuelles en quelques lignes de commandes.
@@ -17,6 +16,7 @@ Il permet de configurer et d'utiliser des machines virtuelles en quelques lignes
 
 https://github.com/Simplon-lyon/dev-web/wiki/devops
  
+
 
 
 Installation
