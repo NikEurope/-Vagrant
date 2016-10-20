@@ -1,7 +1,7 @@
 
 VAGRANT & PUPHPET
 
-TuTO https://www.youtube.com/watch?v=Yb20B0kPrro
+
 
 https://puphpet.com/
 
@@ -17,4 +17,10 @@ Reg ex dans puphpetFinich
 
 
 Pour reinicialiser le Puphpet utiliser gliser sur https://puphpet.com/   - config.yaml
+
+_____________________________________________________________________________________________
+
+
+
+EN +  TuTO https://www.youtube.com/watch?v=Yb20B0kPrro
 
