@@ -3,7 +3,6 @@
 VAGRANT DOC
 
 
-
 VAGRANT   https://www.vagrantup.com/
 
 Qu’est ce que Vagrant ?   https://www.synbioz.com/blog/vagrant_et_la_virtualisation_pour_faciliter_le_developpement
